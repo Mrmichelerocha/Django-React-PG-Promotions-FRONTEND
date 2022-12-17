@@ -24,7 +24,7 @@ Foi pedido que se encontra-se um cliente da região e ajudasse seu negocio.
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-Utilizando apenas **PYTHON** e as bibliotecas:
+Utilizando apenas **JAVASCRIPT** e as bibliotecas:
 > - React
 > - Material UI
  
